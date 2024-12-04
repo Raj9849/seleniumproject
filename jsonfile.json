@@ -1,0 +1,16 @@
+{
+	"name": "Rajitha",
+	"middlename": "null",
+	"lastname": "somagutta",
+	"age": 30,
+	"Bolleantypekey": "true",
+	"address": {
+		"street": "abcd",
+		"city": "bangalore",
+		"postalcode": 500100
+	},
+	"students": [
+		{
+			"name": "rgfdd",
+			"rollno": 2
+
