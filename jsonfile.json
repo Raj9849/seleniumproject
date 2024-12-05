@@ -3,11 +3,15 @@
 	"middlename": "null",
 	"lastname": "somagutta",
 	"age": 30,
-	"Bolleantypekey": "true",
+	"Booleantypekey": "true",
 	"address": {
 		"street": "abcd",
 		"city": "bangalore",
-		"postalcode": 500100
+		"postalcode": 500100,
+		"Country": "India",
+		9898786
+						vhhfhyj
+
 	},
 	"students": [
 		{
